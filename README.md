@@ -22,8 +22,8 @@ This landing page showcases the **iPhone 15 Pro** with a clean design, product d
 - **JavaScript (Vanilla)** – Button click interaction  
 
 ---
-## 🚀 Live Demo  
-[🔗 Click here to view the landing page](https://siddik-rahman.github.io/landing-page/)
+## 🌐 Live Demo
+🔗 [Click here to view the landing page](https://siddik-rahman.github.io/landing-page/)
 
 
 
