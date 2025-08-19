@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="wrapper">
+<div class="navbar">
+<ul>
+<li>Home</li>
+<li>Product</li>
+<li>Services</li>
+<li class="active">Sign up</li>
+</ul>
+</div>
+
+
+<div class="main-content">
+<h1>iPhone 15 Pro</h1>
+<p>Cutting-edge technology, powerful performance, and stunning design. Buy the new iPhone 15 Pro today and experience innovation like never before.</p>
+<img src="/phone.jpg" alt="iPhone 15 Pro">
+<button class="btn">Buy Now</button>
+</div>
+</div>
+<script>
+const btn = document.querySelector(".btn");
+btn.addEventListener("click", () => {
+alert("Thanks ! We have received your order 🚀");
+});
+</script>
+</body>
+</html>
